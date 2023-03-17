@@ -1,0 +1,91 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Priyanka nema",
+      "company": "Accenture",
+      "email": "pri.nema77@gmail.com",
+      "title": "Client financial management associate",
+      "mobile": 8827504735,
+      "photo": "https://w7.pngwing.com/pngs/129/292/png-transparent-female-avatar-girl-face-woman-user-flat-classy-users-icon.png",
+      "groupId": 3
+    },
+    {
+      "id": 3,
+      "name": "Poonam nema",
+      "company": "Techno task Ltd",
+      "email": "poonamnema90@gmail.com",
+      "title": "Customer service executive",
+      "mobile": 7999856630,
+      "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-512.png",
+      "groupId": 3
+    },
+    {
+      "id": 4,
+      "name": "Bulbul Nema",
+      "company": "DAV RGTPP Public school",
+      "email": "supriya3276yadav@gmail.com",
+      "title": "PRT",
+      "mobile": 7582845547,
+      "photo": "https://cdn-icons-png.flaticon.com/512/3100/3100818.png",
+      "groupId": 7
+    },
+    {
+      "name": "Aman nema",
+      "photo": "https://cdn.pixabay.com/photo/2020/07/14/13/07/icon-5404125_1280.png",
+      "email": "its_aman007@rediffmail.com",
+      "mobile": "8357856433",
+      "company": "Infosys BPM Ltd",
+      "title": "Senior Technology Process Executive",
+      "id": 5
+    },
+    {
+      "name": "Anu",
+      "photo": "https://cdn.esquimaltmfrc.com/wp-content/uploads/2015/09/flat-faces-icons-circle-woman-7-940x940.png",
+      "email": "anushreemoharir700@gmail.com",
+      "mobile": "1234567890",
+      "company": "NA",
+      "title": "Student",
+      "id": 6
+    },
+    {
+      "name": "Ashok nema",
+      "photo": "https://cdn-icons-png.flaticon.com/512/4139/4139981.png",
+      "email": "ashoknema1957@gmail.com",
+      "mobile": "9407864317",
+      "company": "Retired",
+      "title": "MR",
+      "id": 7
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Friend"
+    },
+    {
+      "id": 2,
+      "name": "Collegue"
+    },
+    {
+      "id": 3,
+      "name": "Sister"
+    },
+    {
+      "id": 4,
+      "name": "Father"
+    },
+    {
+      "id": 5,
+      "name": "Mother"
+    },
+    {
+      "id": 6,
+      "name": "Girl friend"
+    },
+    {
+      "id": 7,
+      "name": "Wife"
+    }
+  ]
+}
