@@ -40,15 +40,6 @@
       "id": 5
     },
     {
-      "name": "Anu",
-      "photo": "https://cdn.esquimaltmfrc.com/wp-content/uploads/2015/09/flat-faces-icons-circle-woman-7-940x940.png",
-      "email": "anushreemoharir700@gmail.com",
-      "mobile": "1234567890",
-      "company": "NA",
-      "title": "Student",
-      "id": 6
-    },
-    {
       "name": "Ashok nema",
       "photo": "https://cdn-icons-png.flaticon.com/512/4139/4139981.png",
       "email": "ashoknema1957@gmail.com",
@@ -56,6 +47,24 @@
       "company": "Retired",
       "title": "MR",
       "id": 7
+    },
+    {
+      "name": "test",
+      "photo": "https://cdn.pixabay.com/photo/2025/05/24/08/07/ai-generated-9619271_640.png",
+      "email": "aman07nema@gmail.com",
+      "mobile": "8357856433",
+      "company": "Javi system India Pvt ltd",
+      "title": "Angular developer",
+      "id": 8
+    },
+    {
+      "name": "Kiran Nema",
+      "photo": "https://img.freepik.com/premium-vector/beautiful-indian-woman-sari-indian-woman-wearing-saree_726899-95.jpg?w=360",
+      "email": "kiran.nema@gmail.com",
+      "mobile": "7222909056",
+      "company": "Housewife",
+      "title": "Maa",
+      "id": 9
     }
   ],
   "groups": [
